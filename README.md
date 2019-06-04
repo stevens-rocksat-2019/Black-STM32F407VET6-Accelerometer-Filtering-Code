@@ -6,4 +6,4 @@
 To install add https://github.com/stm32duino/BoardManagerFiles/raw/master/STM32/package_stm_index.json to your board manager URLs in Arduino and install STM32 Cores
 
 - https://github.com/stm32duino/STM32FreeRTOS
-(don't know how to install just yet, have to ask shoop)
+Install from library manager, search `RTOS`, look for `STM32duino FreeRTOS` v10 in the list and install

@@ -10,3 +10,6 @@ Install from library manager, search for `RTOS`, look for `STM32duino FreeRTOS` 
 
 - https://github.com/stm32duino/STM32SD
 Install from library manager, search for `STM32SD` look for `STM32duino STM32SD` and install v1.2.0
+
+- https://github.com/stm32duino/FatFs
+Install from library manager, search for `FatFs` and install v2.0.2
